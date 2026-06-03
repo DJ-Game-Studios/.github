@@ -1,5 +1,12 @@
 # DJMSQRVVE Style Guide: Twilight Shadowpunk
 
+> **⚠️ SSOT moved → [MSQRVVE Brand System](../brand-system/README.md) (2026-06-03).** Canonical
+> naming updated: the themes below (Neon-Deco / Googie-Atomic / Usonian-Luxe / Masquerave-Noir) are
+> now the **Cyber Forest Deco** style (primary). **Twilight Shadowpunk** is now a *distinct sibling
+> style*, not the umbrella. The forest/stream aesthetic is **Bioluminescent Grove** (was "Sleepywood
+> cyber-forest"). This file is retained for its color/typography/composition detail; reference
+> brand-system for canon.
+
 ## Philosophy
 
 Cyberpunk rebuilt with nature and community. Blade Runner meets Sleepywood.
