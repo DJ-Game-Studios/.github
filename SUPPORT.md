@@ -2,14 +2,22 @@
 
 ## Bugs
 
-Use the issue tracker in the repository that owns the affected tool or release. Include the version, platform, reproduction steps, and a minimal log or screenshot.
+Use the issue tracker in the repository that owns the affected tool or release. Include:
+
+- the release version or commit;
+- your operating system and relevant application version;
+- clear reproduction steps;
+- what you expected and what happened;
+- a minimal log or screenshot when useful.
+
+Remove usernames, local paths, tokens, and other private information before posting.
 
 ## General questions
 
-For studio news, community conversation, and general questions, join the [DJ MSQRVVE Discord](https://discord.gg/msqrvve).
+Studio updates, development videos, and future public-release information are available through [djmsqrvve.com](https://djmsqrvve.com), [YouTube](https://youtube.com/@djmsqrvve), and [Twitch](https://twitch.tv/djmsqrvve).
 
 ## Security issues
 
-Do not publish credentials, private data, or a reproducible security vulnerability in a public issue. Contact a repository maintainer privately through GitHub before sharing sensitive details.
+Do not publish credentials, private data, or reproducible vulnerability details in a public issue. Follow the process in [SECURITY.md](SECURITY.md).
 
-Public repositories and community channels are not monitored as emergency support services.
+Public repositories and channels are maintained on a best-effort basis and are not emergency support services.
