@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">DJ Game Studios mark</title>
+  <desc id="desc">A DJ monogram in mint and amber inside a cyber-forest hexagon.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060C0A"/>
+      <stop offset="1" stop-color="#12201A"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFB454"/>
+      <stop offset="0.5" stop-color="#CAA35E"/>
+      <stop offset="1" stop-color="#01FFC3"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="46%" r="55%">
+      <stop offset="0" stop-color="#01FFC3" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#01FFC3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="64" fill="url(#background)"/>
+  <rect x="2" y="2" width="508" height="508" rx="62" fill="none" stroke="#1F3C31" stroke-width="4"/>
+  <circle cx="256" cy="236" r="218" fill="url(#glow)"/>
+
+  <path d="M256 50 430 151v202L256 454 82 353V151Z" fill="#060C0A" fill-opacity="0.76" stroke="url(#frame)" stroke-width="9"/>
+  <path d="M256 79 405 165v174L256 425 107 339V165Z" fill="none" stroke="#01FFC3" stroke-width="5"/>
+
+  <g aria-hidden="true">
+    <circle cx="107" cy="252" r="8" fill="#01FFC3"/>
+    <circle cx="405" cy="252" r="8" fill="#00E5FF"/>
+    <path d="M51 384c62-37 107-30 157-58 31-17 45-42 62-73" fill="none" stroke="#2D6B3C" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="135" cy="348" rx="25" ry="10" transform="rotate(-20 135 348)" fill="#7EC77A" fill-opacity="0.82"/>
+    <path d="M370 110c30 15 56 37 91 75" fill="none" stroke="#2D6B3C" stroke-width="7" stroke-linecap="round"/>
+    <ellipse cx="399" cy="129" rx="21" ry="9" transform="rotate(30 399 129)" fill="#7EC77A" fill-opacity="0.78"/>
+  </g>
+
+  <g aria-label="DJ">
+    <path d="M151 177h82c72 0 113 35 113 91s-41 91-113 91h-82Zm51 44v94h30c39 0 60-16 60-47s-21-47-60-47Z" fill="#EAFFF4"/>
+    <path d="M310 177h52v139c0 65-39 103-108 103-21 0-42-4-59-11l15-45c14 5 28 8 41 8 37 0 59-18 59-57Z" fill="#FFB454"/>
+  </g>
+
+  <circle cx="72" cy="112" r="5" fill="#FFB454"/>
+  <circle cx="446" cy="391" r="5" fill="#EAFFF4"/>
+</svg>
