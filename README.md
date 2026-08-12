@@ -1,46 +1,34 @@
 # DJ MSQRVVE
 
-Solo developer building a multi-client MMORPG ecosystem from scratch. One shared data pipeline feeding four interconnected game implementations — browser, 3D, retro engine, and beyond.
+Founder and creative director of [DJ Game Studios](https://github.com/DJ-Game-Studios), an independent studio building interconnected games, engines, and creator tools.
 
----
+## The Helix ecosystem
 
-### What I'm Building
+**Helix** is a dark-fantasy MMORPG universe designed to span multiple game clients and visual styles. A shared data foundation connects the world, characters, combat, and progression across the ecosystem.
 
-**The Helix Ecosystem** — a fantasy MMORPG world rendered across multiple clients, all consuming from a single curated data pipeline.
+Current work includes:
 
-| Project | Stack | What It Does |
-|---------|-------|-------------|
-| **Helix 2000** | TypeScript, React, Phaser, Colyseus | 2D browser MMORPG with real-time multiplayer, 500 abilities, boss encounters |
-| **[Helix 3D](https://github.com/djmsqrvve/helix_3d_render_prototype)** | Rust, Bevy 0.18 | 3D client that loads WoW-format M2 models, terrain, and animations from MPQ archives |
-| **[DJ-Engine](https://github.com/djmsqrvve/DJ-Engine)** | Rust, Bevy 0.18 | Custom 2D game engine with CRT shaders, particle systems, and a retro JRPG (DoomExe) |
-| **Helix DB** | TypeScript, TOML | Data pipeline — 2,000+ curated entities flowing to all game clients |
+- **Helix 3D** — the flagship 3D MMORPG experience.
+- **Helix 2000** — a real-time 2D browser interpretation of the same world.
+- **DJ-Engine** — a custom Rust game engine for stylized 2D games.
+- **Helix tools** — a 3D viewer, Blender integration, and the `.helix` portable character format.
 
-The aesthetic is dark and atmospheric — bioluminescent accents against deep shadows. Think midnight forests with glowing flora and ancient tech half-buried in the undergrowth.
+Public downloads and tools are available through the [DJ Game Studios organization](https://github.com/DJ-Game-Studios).
 
----
+## Public projects
 
-### Current Focus
+| Project | Description |
+| --- | --- |
+| [Helix 3D Viewer](https://github.com/DJ-Game-Studios/helix-viewer-releases) | Standalone viewer and sample packages for the `.helix` character format. |
+| [Helix Blender Tools](https://github.com/DJ-Game-Studios/helix-blender-addon) | Import, inspect, animate, and export `.helix` packages in Blender. |
+| [DJ-Engine Releases](https://github.com/DJ-Game-Studios/dj-engine-releases) | Community-test builds of DJ-Engine and games made with it. |
+| [DJ Mouse Warp](https://github.com/DJ-Game-Studios/dj-mouse-warp) | Proportional cursor movement across mismatched GNOME monitor layouts. |
 
-Building a 2:30 demo reel showcasing the entire ecosystem. 13 AI agents running in parallel across the codebase — each owning a different subsystem, coordinated by a master orchestrator.
+## Follow the work
 
-**By the numbers:**
-- 13,000+ automated tests across the ecosystem
-- 2,000+ hand-curated game entities
-- 63 WoW creature models parsed from vanilla MPQ files
-- 22 VS Code themes across all workspaces
-- Complete YouTube content pipeline (upload, clip, schedule, batch)
+- [Website](https://djmsqrvve.com)
+- [YouTube](https://youtube.com/@djmsqrvve)
+- [Twitch](https://twitch.tv/djmsqrvve)
+- [Discord](https://discord.gg/msqrvve)
 
----
-
-### Tech
-
-`Rust` `Bevy` `TypeScript` `React` `Python` `Colyseus` `Next.js` `FastAPI` `Phaser` `TOML`
-
----
-
-### Links
-
-- [twitch.tv/djmsqrvve](https://twitch.tv/djmsqrvve)
-- [djmsqrvve.com](https://djmsqrvve.com)
-- [youtube.com/@djmsqrvve](https://youtube.com/@djmsqrvve)
-- [discord.gg/msqrvve](https://discord.gg/msqrvve)
+Most game source remains private while in active development. Public repositories contain supported tools, specifications, and release builds.
