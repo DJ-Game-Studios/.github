@@ -1,35 +1,16 @@
-# DJ Game Studios
+# DJ Game Studios community configuration
 
-An independent studio building the Helix universe—and the engines, creator tools, Linux workstations, and production systems behind it.
+This special `.github` repository controls organization-wide public presentation and community defaults for [DJ Game Studios](https://github.com/DJ-Game-Studios).
 
-## The Helix ecosystem
-
-**Helix** is a dark-fantasy MMORPG universe designed to span multiple game clients and visual styles. A shared data foundation connects the world, characters, combat, and progression across the ecosystem.
-
-Current work includes:
-
-- **Helix 3D** — the flagship 3D MMORPG experience.
-- **Helix 2000** — a real-time 2D browser interpretation of the same world.
-- **DJ-Engine** — a custom Rust game engine for stylized 2D games.
-- **Helix tools** — a 3D viewer, Blender integration, and the `.helix` portable character format.
-
-Public downloads and tools are available through the [DJ Game Studios organization](https://github.com/DJ-Game-Studios).
-
-## Public releases and infrastructure
-
-| Project | Description |
+| Path | Purpose |
 | --- | --- |
-| [Helix 3D Viewer](https://github.com/DJ-Game-Studios/helix-viewer-releases) | Standalone viewer and sample packages for the `.helix` character format. |
-| [Helix Blender Tools](https://github.com/DJ-Game-Studios/helix-blender-addon) | Import, inspect, animate, and export `.helix` packages in Blender. |
-| [DJ-Engine Releases](https://github.com/DJ-Game-Studios/dj-engine-releases) | Community-test builds of DJ-Engine and games made with it. |
-| [DJ Mouse Warp](https://github.com/DJ-Game-Studios/dj-mouse-warp) | Proportional cursor movement across mismatched GNOME monitor layouts. |
-| [DJ GNOME Focus](https://github.com/DJ-Game-Studios/dj-gnome-focus) | Window activation and tiling for GNOME Shell on Wayland. |
+| [`profile/README.md`](profile/README.md) | Public organization Overview page |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Default contribution guidance |
+| [`SUPPORT.md`](SUPPORT.md) | Default support routes |
+| [`SECURITY.md`](SECURITY.md) | Default vulnerability-reporting guidance |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Organization community standards |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Default bug and feature-request forms |
+| [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Default pull-request checklist |
+| [`STYLE_GUIDE.md`](STYLE_GUIDE.md) | Public writing and visual rules |
 
-## Follow the work
-
-- [Website](https://djmsqrvve.com)
-- [YouTube](https://youtube.com/@djmsqrvve)
-- [Twitch](https://twitch.tv/djmsqrvve)
-- [Discord](https://discord.gg/msqrvve)
-
-Most game source remains private while in active development. Public repositories contain release builds, installable packages, and reusable pieces of the studio infrastructure.
+Core game source is private by default. Public repositories contain release channels, installable packages, and reusable studio infrastructure.
