@@ -1,0 +1,57 @@
+name: Bug report
+description: Report a reproducible problem in a public release or tool.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the project. Remove credentials, usernames, private paths, and other sensitive information before submitting.
+  - type: input
+    id: version
+    attributes:
+      label: Version or release
+      description: Include the release tag, commit, or downloaded filename.
+      placeholder: v0.3.0
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, architecture, and relevant host application version.
+      placeholder: Fedora 42, x86_64, GNOME Shell 48
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What happened, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Install…
+        2. Open…
+        3. Observe…
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or screenshots
+      description: Add the smallest useful evidence after removing private information.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submission checks
+      options:
+        - label: I checked for an existing issue describing the same problem.
+          required: true
+        - label: I removed secrets and private information from this report.
+          required: true
