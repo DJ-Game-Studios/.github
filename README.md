@@ -1,6 +1,6 @@
-# DJ MSQRVVE
+# DJ Game Studios
 
-Founder and creative director of [DJ Game Studios](https://github.com/DJ-Game-Studios), an independent studio building interconnected games, engines, and creator tools.
+An independent studio building the Helix universe—and the engines, creator tools, Linux workstations, and production systems behind it.
 
 ## The Helix ecosystem
 
@@ -15,7 +15,7 @@ Current work includes:
 
 Public downloads and tools are available through the [DJ Game Studios organization](https://github.com/DJ-Game-Studios).
 
-## Public projects
+## Public releases and infrastructure
 
 | Project | Description |
 | --- | --- |
@@ -23,6 +23,7 @@ Public downloads and tools are available through the [DJ Game Studios organizati
 | [Helix Blender Tools](https://github.com/DJ-Game-Studios/helix-blender-addon) | Import, inspect, animate, and export `.helix` packages in Blender. |
 | [DJ-Engine Releases](https://github.com/DJ-Game-Studios/dj-engine-releases) | Community-test builds of DJ-Engine and games made with it. |
 | [DJ Mouse Warp](https://github.com/DJ-Game-Studios/dj-mouse-warp) | Proportional cursor movement across mismatched GNOME monitor layouts. |
+| [DJ GNOME Focus](https://github.com/DJ-Game-Studios/dj-gnome-focus) | Window activation and tiling for GNOME Shell on Wayland. |
 
 ## Follow the work
 
@@ -31,4 +32,4 @@ Public downloads and tools are available through the [DJ Game Studios organizati
 - [Twitch](https://twitch.tv/djmsqrvve)
 - [Discord](https://discord.gg/msqrvve)
 
-Most game source remains private while in active development. Public repositories contain supported tools, specifications, and release builds.
+Most game source remains private while in active development. Public repositories contain release builds, installable packages, and reusable pieces of the studio infrastructure.
