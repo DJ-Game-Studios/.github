@@ -12,5 +12,6 @@ This special `.github` repository controls organization-wide public presentation
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Default bug and feature-request forms |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Default pull-request checklist |
 | [`STYLE_GUIDE.md`](STYLE_GUIDE.md) | Public writing and visual rules |
+| [`assets/`](assets/) | Public banner, editable studio mark, and upload-ready avatar |
 
 Core game source is private by default. Public repositories contain release channels, installable packages, and reusable studio infrastructure.
