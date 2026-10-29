@@ -6,10 +6,11 @@ This guide governs organization profiles, public repositories, release notes, an
 
 - **DJ Game Studios** is the studio and publisher identity.
 - **Helix** is the primary universe and product family.
-- **Helix MMORPG** is the flagship and primary development focus.
-- **Helix 2000** and **Helix Card Online** are active adjacent products.
+- **Helix 2000** is the first public game, a 2D browser MMORPG in public alpha.
+- The long-term persistent world is in private development and has no public name yet.
+- Public pages name only announced games; unannounced projects stay off them.
 - **DJ-Engine** is an independent engine—not the name of the Helix universe.
-- Public infrastructure projects are genuine studio work, but they are not flagship games.
+- Public infrastructure projects are genuine studio work, but they are not games.
 
 ## Voice
 

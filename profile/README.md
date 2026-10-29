@@ -8,20 +8,17 @@ An independent game studio led by [DJ MSQRVVE](https://youtube.com/@djmsqrvve).
 
 </div>
 
-## Helix MMORPG
+## Helix
 
-**Helix MMORPG is our flagship and primary development focus:** a 3D, fantasy-first persistent world centered on evolution, identity, spirit, and transformation.
+**Helix is our main universe:** a fantasy-first world centered on evolution, identity, spirit, and transformation. Its first public game is **Helix 2000**, a 2D browser MMORPG in public alpha at [helix2000.com](https://helix2000.com). A larger persistent world is the long-term goal and is in private development.
 
-The current mainline uses a custom Rust `wgpu`/`winit` client, a QUIC game server, shared game and data foundations, and an in-house world and asset pipeline. It is under active private development.
+## The wider slate
 
-## The wider Helix slate
-
-- **Helix 2000** — an active 2D browser MMORPG and a different expression of the same world.
-- **Helix Card Online** — an active online card-game branch.
+- **Helix 2000** — a 2D browser MMORPG in public alpha.
 - **DJ-Engine** — an independent Rust engine supporting adjacent Helix games and experiments.
 - **Helix tools and data** — the private foundations behind characters, world data, assets, validation, and production workflows.
 
-Helix is the main universe. Genre experiments and alternate interpretations do not replace the flagship direction.
+Genre experiments and alternate interpretations support the long-term direction; they do not replace it.
 
 ## Public releases and tools
 
@@ -31,11 +28,10 @@ Core game source remains private by default. What we publish here falls into two
 | --- | --- | --- |
 | [DJ-Engine Releases](https://github.com/DJ-Game-Studios/dj-engine-releases) | Community-test game and engine builds | Early release channel |
 | [Helix Blender Tools](https://github.com/DJ-Game-Studios/helix-blender-addon) | `.helix` package workflow for Blender | Maintained installable addon |
-| [Helix 3D Viewer](https://github.com/DJ-Game-Studios/helix-viewer-releases) | Viewer-era binaries, samples, and format documentation | Legacy maintenance channel |
 | [DJ Mouse Warp](https://github.com/DJ-Game-Studios/dj-mouse-warp) | Natural cursor travel across mismatched GNOME monitor rows | Studio infrastructure |
 | [DJ GNOME Focus](https://github.com/DJ-Game-Studios/dj-gnome-focus) | Window activation and tiling on GNOME Wayland | Studio infrastructure |
 
-These repositories are authentic parts of DJ Game Studios, but they are not a complete portfolio map or an indication that every public utility is a flagship product.
+These repositories are authentic parts of DJ Game Studios, but they are not a complete portfolio map or an indication that every public utility is a finished product.
 
 ## Follow development
 
