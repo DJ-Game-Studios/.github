@@ -8,7 +8,7 @@ This guide governs organization profiles, public repositories, release notes, an
 - **Helix** is the primary universe and product family.
 - **Helix 2000** is the first public game, a 2D browser MMORPG in public alpha.
 - The long-term persistent world is in private development and has no public name yet.
-- Public pages name only announced games; unannounced projects stay off them.
+- Public pages name only announced games; unannounced projects stay off them. Describe each game by its pitch and status, without tech stacks, architecture or internal tools.
 - **DJ-Engine** is an independent engine—not the name of the Helix universe.
 - Public infrastructure projects are genuine studio work, but they are not games.
 
