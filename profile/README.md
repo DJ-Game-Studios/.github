@@ -2,9 +2,9 @@
 
 ![DJ Game Studios — games, tools, and studio systems](../assets/studio-banner.svg)
 
-An independent game studio led by [DJ MSQRVVE](https://youtube.com/@djmsqrvve).
+**DJ Game Studios** (World's Greatest Game Studios) — an independent solo game studio in California, founded in 2025.
 
-[Website](https://djmsqrvve.com) · [YouTube](https://youtube.com/@djmsqrvve) · [Twitch](https://twitch.tv/djmsqrvve)
+[Helix 2000](https://helix2000.com) · [GitHub](https://github.com/DJ-Game-Studios)
 
 </div>
 
@@ -24,7 +24,7 @@ Genre experiments and alternate interpretations support the long-term direction;
 
 ## Follow development
 
-Development videos, demos, and behind-the-scenes work are published on [YouTube](https://youtube.com/@djmsqrvve) and [Twitch](https://twitch.tv/djmsqrvve). Studio updates and future public releases are collected at [djmsqrvve.com](https://djmsqrvve.com).
+Development updates and live sessions are shared on the founder's dev streams ([YouTube](https://youtube.com/@djmsqrvve) and [Twitch](https://twitch.tv/djmsqrvve)). Public alpha play for Helix 2000 lives at [helix2000.com](https://helix2000.com).
 
 ---
 

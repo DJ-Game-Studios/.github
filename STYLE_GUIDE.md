@@ -73,4 +73,4 @@ Release repositories should link to the exact recommended tag when GitHub’s au
 - Prefer the `DJ-Game-Studios` namespace for studio-owned public links.
 - Link exact releases for recommended downloads.
 - Describe private dependencies as private; do not produce broken pseudo-public links.
-- Use [djmsqrvve.com](https://djmsqrvve.com), [YouTube](https://youtube.com/@djmsqrvve), and [Twitch](https://twitch.tv/djmsqrvve) as the canonical public channels.
+- Use `DJ-Game-Studios` and dedicated game domains ([helix2000.com](https://helix2000.com)) for studio links; label founder personal channels ([djmsqrvve.com](https://djmsqrvve.com), [YouTube](https://youtube.com/@djmsqrvve), [Twitch](https://twitch.tv/djmsqrvve)) as dev streams rather than corporate studio listings.

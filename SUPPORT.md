@@ -14,7 +14,7 @@ Remove usernames, local paths, tokens, and other private information before post
 
 ## General questions
 
-Studio updates, development videos, and future public-release information are available through [djmsqrvve.com](https://djmsqrvve.com), [YouTube](https://youtube.com/@djmsqrvve), and [Twitch](https://twitch.tv/djmsqrvve).
+Use the relevant repository issue tracker or [helix2000.com](https://helix2000.com) for game/tool inquiries. Development updates and founder dev streams are shared on [YouTube](https://youtube.com/@djmsqrvve) and [Twitch](https://twitch.tv/djmsqrvve) ([djmsqrvve.com](https://djmsqrvve.com) is the founder's personal site).
 
 ## Security issues
 
